@@ -5,3 +5,8 @@ echo "# CIS-635-Term-Project" >> README.md
   git branch -M main
   git remote add origin https://github.com/broughaa/CIS-635-Term-Project.git
   git push -u origin main
+
+
+test = "TEST"
+
+print(test)
